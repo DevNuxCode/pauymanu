@@ -15,6 +15,12 @@ const geistMono = Geist_Mono({
 export const metadata = {
   title: "Pauli 💖 Manu",
   description: "Nuestra historia desde el 14 de enero ✨",
+icons: {
+  icon: [
+    { url: "/corazon2.png" },
+    { url: "/corazon2.png", sizes: "32x32", type: "image/png" },
+  ],
+},
 };
 
 export default function RootLayout({

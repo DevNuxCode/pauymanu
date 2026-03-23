@@ -55,7 +55,7 @@ export default function Home(){
 
       {/* AUDIO */}
       <audio ref={audioRef} loop>
-        <source src="https://cdn.pixabay.com/download/audio/2022/03/15/audio_c8c8a73467.mp3?filename=romantic-ambient-piano-110624.mp3" type="audio/mpeg" />
+        <source src="song.mp3" type="audio/mpeg" />
       </audio>
 
       {/* ATMOSFERA */}
